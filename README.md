@@ -1,6 +1,6 @@
 # 🧠 ArviS Emoji Scraper
 
-**Discord Emoji Scraper** is a Python-based web scraper that automatically collects emojis and stickers from the ArviS platform. It's simple, flexible, and ideal for developers who want to extract data quickly and efficiently.
+**Discord Emoji Scraper** is a Python-based web scraper that automatically collects emojis and stickers from the Discord platform. It's simple, flexible, and ideal for developers who want to extract data quickly and efficiently.
 
 ---
 
@@ -19,7 +19,7 @@
 ## 📂 Project Structure
 
 ```
-ArviS Emoji Scraper/
+Discord Emoji Scraper/
 ├── emojiscraper.py       # Main module for scraping emojis
 ├── stickerscraper.py     # Module for scraping stickers
 └── requirements.txt      # Required Python libraries
@@ -31,8 +31,8 @@ ArviS Emoji Scraper/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/arvis-emoji-scraper.git
-cd arvis-emoji-scraper/ArviS\ Emoji\ Scraper
+git clone https://github.com/ArviiSoft/discord-emoji-scraper.git
+cd discord-emoji-scraper/ArviS\ Emoji\ Scraper
 
 # 2. Create a virtual environment and install dependencies
 python -m venv venv
